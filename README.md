@@ -4,7 +4,7 @@
 ![image](https://github.com/Wei0209/ROS_turtle_PID/blob/main/demo/p_control.gif)
 
 ## Rotate_p_control 是讓烏龜 到 指定角度，實現角度 PID Contorl
-![image](https://github.com/Wei0209/ROS_turtle_PID/blob/main/demo/rotate_p_control.gif)
+![image](https://github.com/Wei0209/ROS_turtle_PID/blob/9aa107d0da4084e7db31bd62f5313274729434fe/demo/rotate_p_conrtrol.gif)
 
 ## follow_control 是結合前兩者，並且使烏龜可以畫出六邊形
 ![image](https://github.com/Wei0209/ROS_turtle_PID/blob/main/demo/follow_control.gif)
